@@ -1,2 +1,2 @@
 # About
-This is a Python implementation of the decision tree algorithm taking continuous input. 
+This is my Python implementation of the decision tree algorithm taking continuous input. 
